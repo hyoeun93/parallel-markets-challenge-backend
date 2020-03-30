@@ -1,0 +1,1 @@
+json.extract! @investor, :id, :first_name, :last_name, :date_of_birth, :phone_number, :street_address, :state, :zip_code, :attachments
